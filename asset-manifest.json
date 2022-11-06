@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/grid-tailwind/static/css/main.e6c13ad2.css",
+    "main.js": "/grid-tailwind/static/js/main.f132ec49.js",
+    "static/media/02.jpg": "/grid-tailwind/static/media/02.a03e94f25edbe486b110.jpg",
+    "static/media/03.jpg": "/grid-tailwind/static/media/03.4c70ef8b59720f188158.jpg",
+    "static/media/05.jpg": "/grid-tailwind/static/media/05.788ec50af4ba9b475859.jpg",
+    "static/media/04.jpg": "/grid-tailwind/static/media/04.bb7bc04c6f43dd052d13.jpg",
+    "static/media/01.jpg": "/grid-tailwind/static/media/01.6df740bee692e39e6c9e.jpg",
+    "static/media/06.jpg": "/grid-tailwind/static/media/06.a0bd9cb124817e207568.jpg",
+    "index.html": "/grid-tailwind/index.html",
+    "main.e6c13ad2.css.map": "/grid-tailwind/static/css/main.e6c13ad2.css.map",
+    "main.f132ec49.js.map": "/grid-tailwind/static/js/main.f132ec49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f132ec49.js"
+  ]
+}
